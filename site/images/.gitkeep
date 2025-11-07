@@ -1,0 +1,14 @@
+# 图片资源目录
+
+此目录用于存放Wiki文档中使用的截图和图片资源。
+
+## 图片命名规范
+
+建议使用以下命名格式：
+- `{模块}-{功能}-{序号}.png`
+
+例如：
+- `task-batch-01.png` - 任务编排页面截图1
+- `orders-list-01.png` - 订单列表页面截图1
+- `dashboard-overview.png` - Dashboard总览
+
