@@ -1,4 +1,23 @@
 site_name: GameHub Bot Wiki
-
+nav:
+  - 📖 界面总览: 01-getting-started/user-interface-overview.md
+  - 🚀 快速入门:
+    - 账号管理: 07-subuser/account-register.md
+    - 商品管理: 03-archives/overview.md
+    - 任务编排: 02-task-control/overview.md 
+    - 订单管理: 05-orders/overview.md
+    - 自动发货: 06-delivery/overview.md
+    - 数据分析: 08-dataanalysis/overview.md
+  - ❓ 帮助与支持:
+    - 常见问题FAQ: 11-support/faq-general.md
+    - 任务相关问题: 11-support/faq-task.md
+    - 订单相关问题: 11-support/faq-orders.md
+    - 发货相关问题: 11-support/faq-delivery.md
+    - 账号相关问题: 11-support/faq-accounts.md
+    - 故障排查指南: 11-support/troubleshooting.md
+  - 📚 附录: 
+    - 术语表: 13-appendix/glossary.md
+    - API接口说明: 13-appendix/api-reference.md
+    - 版本更新日志: 13-appendix/changelog.md
 
 theme: readthedocs
