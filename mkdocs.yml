@@ -4,7 +4,8 @@ nav:
   - 🚀 快速入门:
     - 账号管理: 07-subuser/account-register.md
     - 商品管理: 03-archives/overview.md
-    - 任务编排: 02-task-control/overview.md 
+    - 任务编排: 02-task-control/overview.md
+    - Deepseek 改写: 02-task-control/deepseek-rewrite.md 
     - 订单管理: 05-orders/overview.md
     - 自动发货: 06-delivery/overview.md
     - 数据分析: 08-dataanalysis/overview.md

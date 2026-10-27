@@ -10,6 +10,7 @@
 
 #### 任务控制
 - [任务控制总览](02-task-control/overview.md)
+- [Deepseek 标题与档案内容改写](02-task-control/deepseek-rewrite.md)
 
 #### 商品管理
 - [商品管理总览](03-archives/overview.md)
