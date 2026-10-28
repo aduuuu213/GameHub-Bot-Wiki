@@ -1,4 +1,5 @@
 site_name: GameHub Bot Wiki
+site_url: https://doc.gd-bot.com/
 nav:
   - 📖 界面总览: 01-getting-started/user-interface-overview.md
   - 🚀 快速入门:
