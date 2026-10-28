@@ -21,4 +21,6 @@ nav:
     - API接口说明: 13-appendix/api-reference.md
     - 版本更新日志: 13-appendix/changelog.md
 
-theme: readthedocs
+theme:
+  name: readthedocs
+  custom_dir: overrides
