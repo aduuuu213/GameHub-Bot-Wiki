@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://doc.gd-bot.com/sitemap.xml
