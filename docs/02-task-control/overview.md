@@ -172,9 +172,7 @@
 
 #### 标题与档案内容改写
 
-出品前可用 Deepseek 改写标题和档案描述，减轻首页标题雷同。标题、内容可以分别选用大模型或自定义 Python 脚本。任务编排里的开关优先于 Deepseek 页的全局开关。
-
-完整步骤（API Key、默认提示词、自定义脚本、让大模型写脚本）见 [Deepseek 标题与档案内容改写](deepseek-rewrite.md)。
+出品前可用 Deepseek 改写标题和档案描述。操作步骤见 [Deepseek 标题与档案内容改写](deepseek-rewrite.md)。
 
 ## 注意事项
 
